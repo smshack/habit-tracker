@@ -1,44 +1,13 @@
-button{
-  outline:none;
-  border:0;
-  cursor:pointer;
-}
-.habit{
-  font-size:2.5rem;
-  padding:0.5em;
-  list-style:none;
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-.habit-count{
-  display:inline-block;
-  text-align:center;
-  font-size:2rem;
-  width:2.5rem;
-  height: 2.5rem;
-  line-height:2.5rem;
-  margin-left:0.2em;
-  margin-right: 0.5em;
-  background-color: darkseagreen;
-  color:white;
-  border-radius: 50%;
-}
-.habit-button {
-  font-size:2.5rem;
-  margin:0 0.1em;
-  cursor:pointer;
-  background-color: transparent;
-}
-
-.habit-button:hover {
-  opacity: 0.8;
-}
-
-.habit-increase,
-.habit-decrease {
-  color:goldenrod;
-}
-
-.habit-delete {
-  font-size:2rem;
-  color:darkred;
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
 }

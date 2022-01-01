@@ -1,23 +1,27 @@
 # 1. 깃 연결 주소
-
+https://github.com/smshack/habit-tracker
 
 2. 템플릿 프로젝트
+https://reactjs.org/docs/hello-world.html
 
 3. create-react-app
 
 4. 클래스형 컴포넌트(rcc)
-
+https://reactjs.org/docs/introducing-jsx.html
 5. state, props
-
+https://reactjs.org/docs/rendering-elements.html
+https://reactjs.org/docs/components-and-props.html
 6. map 사용
-
+https://reactjs.org/docs/lists-and-keys.html
 7. state, props
-
+https://reactjs.org/docs/state-and-lifecycle.html
 8. 이벤트 처리 하기
-
+https://reactjs.org/docs/handling-events.html
+https://reactjs.org/docs/forms.html
 9. Component PureComponent
 
 10. 라이프사이클
+https://reactjs.org/docs/state-and-lifecycle.html
 ```
  componentWillMount() {
 
@@ -50,6 +54,7 @@
   11. 함수형컴포넌트(rsi)
 
   12. react hook
+  https://reactjs.org/docs/hooks-intro.html
   ```
     function 컴포넌트는 state와 props가 변경이 되면 다시 전체가 다시 렌더링 됨
     훅에서 자동으로 이전 돔과 비교해서 업데이트 될것만 업데이트 함
